@@ -1,0 +1,62 @@
+	.profile{
+		text-align:center;
+		
+	}
+	
+	.about	{
+		text-align:center;
+		
+	}
+	
+	h1{
+		text-align:center;
+		text-shadow: 2px 2px red;
+	}
+	
+	h3{
+		text-shadow: 2px 2px gold;
+		
+	}
+	
+	body	{
+		background: grey;
+		background: -webkit-linear-gradient(grey, lightblue); 
+		background: -o-linear-gradient(grey, lightblue);
+		background: -moz-linear-gradient(grey, lightblue);
+		background: linear-gradient(grey, lightblue);
+		
+	}
+	
+	
+	}
+	.more	{
+		font-size:25px;
+		text-align:center;
+		-webkit-column-count: 1; /*Safari, Chrome */
+		-moz-column-count: 1; /* Firefox */
+		column-count: 1;
+		width:200px;
+		
+	}
+	
+	a:hover	{
+		color:white;
+	}
+	a {
+		text-decoration:none;
+	}
+	
+	footer	{
+		position:fixed;
+		font-size:25px;
+		font-style:arial;
+		bottom:0;
+		right:0;
+		width:500px;
+		border:3px solid black;
+	}
+	img {
+		border:3;
+	}
+
+	
